@@ -14,7 +14,7 @@
 <br>
 
 - A passionate developper
-- 18 years old
+- 19 years old
 - French 🇫🇷
 - Student in computer science at Aix-Marseille University (France)
 - OOP fan

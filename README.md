@@ -107,9 +107,10 @@
 <ul>
 
 <li>
-<a href="https://discordapp.com/users/424284052388970510">
+<a href="https://discordapp.com/">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
+<i>Globostofo#9684</i>
 </li>
 
 <br>

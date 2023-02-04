@@ -83,12 +83,12 @@
 <br>
 
 <a href="https://github.com/globostofo/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=globostofo&theme=tokyonight" wight="450" alt="img1" />
-  	<br>
-  <img src="https://github-readme-stats.vercel.app/api?username=globostofo&include_all_commits=true&count_private=true&show_icons=true&line_height=25&theme=tokyonight" width="450", alt="img2"/>
-	<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=globostofo&show_icons=true&locale=en&line_height=20&theme=tokyonight" width="450"  alt="img3"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=globostofo&theme=tokyonight" width="500" alt="activity" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=globostofo&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" width="500", alt="profile_stats"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=globostofo&show_icons=true&locale=en&theme=tokyonight" width="500" alt="top_languages"/>
+</tr>
+  
+</table>
 </a>
 
 <br>

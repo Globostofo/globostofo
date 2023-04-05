@@ -128,14 +128,6 @@
 <img src="https://img.shields.io/badge/email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-
-<br>
-
-<li>
-<a href="https://www.twitch.tv/gl0b0stofo">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt=twitch style="margin-bottom: 5px;"/>
-</a>
-</li>
 	
 </ul>
 </div>

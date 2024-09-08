@@ -16,8 +16,8 @@
 - A passionate developper
 - 20 years old
 - French 🇫🇷
-- Student in computer science at Aix-Marseille University (France)
-- Currently on a 1-year work-study program at CEA Cadarache, working on modernising the real time data acquisition system for a nuclear research reactor.
+- Student in computer engineering at CNAM Paca (France)
+- Currently on a 3-year work-study program at CEA Cadarache, working on modernising the real time data acquisition system for a nuclear research reactor.
 - OOP fan
 
 <br><br>

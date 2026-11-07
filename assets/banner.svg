@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-label="globostofo_ — I build tools, infrastructure, and soon games.">
+  <style>
+    .mono { font-family: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans { font-family: 'IBM Plex Sans', -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="219" rx="12" fill="#14110f" stroke="#2e2823"/>
+  <g stroke="#4a4038" fill="none" stroke-width="1.5">
+    <rect x="590" y="93" width="60" height="34" rx="6"/>
+    <rect x="690" y="58" width="60" height="34" rx="6"/>
+    <rect x="690" y="128" width="60" height="34" rx="6"/>
+    <rect x="790" y="93" width="60" height="34" rx="6"/>
+    <path d="M650 110 L690 75 M650 110 L690 145 M750 75 L790 110 M750 145 L790 110"/>
+  </g>
+  <g fill="#f2a541"><circle cx="650" cy="110" r="3"/><circle cx="790" cy="110" r="3"/></g>
+  <text x="48" y="74" class="mono" font-size="22" fill="#f4ede4">globostofo<tspan fill="#f2a541" class="cursor">_</tspan></text>
+  <text x="48" y="126" class="sans" font-size="30" font-weight="600" fill="#f4ede4">I build tools, infrastructure,</text>
+  <text x="48" y="164" class="sans" font-size="30" font-weight="600" fill="#f4ede4">and soon games.</text>
+  <text x="48" y="196" class="mono" font-size="13" fill="#b3a89a">self-hosted on a Raspberry Pi · <tspan fill="#8fd99b">● online</tspan></text>
+</svg>

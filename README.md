@@ -12,6 +12,10 @@ Personal projects, running for real: everything on [globostofo.net](https://glob
 
 All projects, and my CV: **[globostofo.net](https://globostofo.net)**
 
+### Activity
+
+<a href="https://github.com/Globostofo"><img src="https://streak-stats.demolab.com/?user=Globostofo&background=14110f&border=2e2823&stroke=2e2823&ring=f2a541&fire=f2a541&currStreakNum=f4ede4&sideNums=f4ede4&currStreakLabel=f2a541&sideLabels=d9cfc3&dates=b3a89a&border_radius=12" alt="GitHub contribution streak"></a>
+
 ### Tech
 
 `C / C++` · `Python` · `Go` · `JavaScript` · `GDScript` · `Astro` · `Docker` · `Traefik` · `Linux` · `Godot`

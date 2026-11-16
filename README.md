@@ -16,8 +16,8 @@ All projects, and my CV: **[globostofo.net](https://globostofo.net)**
 
 <a href="https://github.com/Globostofo"><img src="https://streak-stats.demolab.com/?user=Globostofo&background=14110f&border=2e2823&stroke=2e2823&ring=f2a541&fire=f2a541&currStreakNum=f4ede4&sideNums=f4ede4&currStreakLabel=f2a541&sideLabels=d9cfc3&dates=b3a89a&border_radius=12" alt="GitHub contribution streak"></a>
 
-<a href="https://github.com/Globostofo"><img src="generated/stats.svg" alt="GitHub stats"></a>
-<a href="https://github.com/Globostofo?tab=repositories"><img src="generated/top-langs.svg" alt="Most used languages"></a>
+<a href="https://github.com/Globostofo"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Globostofo&bg_color=14110f&title_color=f2a541&text_color=d9cfc3&icon_color=f2a541&border_color=2e2823" alt="GitHub stats"></a>
+<a href="https://github.com/Globostofo?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Globostofo&bg_color=14110f&title_color=f2a541&text_color=d9cfc3&icon_color=f2a541&border_color=2e2823" alt="Most used languages"></a>
 
 ### Tech
 
